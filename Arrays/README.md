@@ -6,7 +6,7 @@ Given n non-negative integers a1, a2, ..., an, where each represents a point at 
 
 ## Visual Representation
 
-![Container With Most Water Problem](containerwater.png)
+![Container With Most Water Problem](https://s3-lc-upload.s3.amazonaws.com/uploads/2018/07/17/question_11.jpg)
 
 ## Solution
 
