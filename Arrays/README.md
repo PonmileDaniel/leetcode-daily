@@ -2,12 +2,13 @@
 
 ## Problem Description
 
-Given n non-negative integers a1, a2, ..., an, where each represents a point at coordinate (i, ai). n vertical lines are drawn such that the two endpoints of the line i is at (i, ai) and (i, 0). Find two lines, which, together with the x-axis forms a container, such that the container contains the most water.
+All they want you to get is the area of the two bar and Area = width * height 
 
-## Visual Representation
 
-![Container With Most Water Problem](containerwater.jpg)
+## Explaination Solution
 
-## Solution
+so now the first bar which is the shorter one the left and the height is 1 and also the Right which is 7 the distance btw the left and the right is 8 so now 1 multiply by 8 is equal to 8.
+
+
 
 The solution can be found in the accompanying JavaScript file: `Containerwithmostwater.js`
